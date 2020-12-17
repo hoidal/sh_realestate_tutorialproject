@@ -38,3 +38,12 @@ hire_date: DATE
 
 
 ### CONTACT
+id: INT
+user_id: INT
+listing: INT
+listing_id: INT 
+name: STR
+email: STR
+phone: STR
+message: TEXT
+contact_date: DATE
